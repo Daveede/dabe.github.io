@@ -1,7 +1,9 @@
 html {
   overflow-y: scroll;
-  overflow-x: hide;
+  overflow-x: hidden;
 }
+
+
 a:hover {
   text-decoration: none;
 }
@@ -15,6 +17,7 @@ a:hover {
   width: 40%;
   height: 100%;
 }
+
 
 
 
@@ -343,6 +346,44 @@ section.pink {
   margin-bottom: 20px;
 }
 
+.made {
+  color: #666;
+  font-size: 12px;
+  display: block;
+  position: absolute;
+  bottom: 10px;
+  position: absolute;
+  width: 90%;
+  left: 50%;
+  top: 45%;
+  bottom: auto;
+  right: auto;
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+}
+span a {
+  color: #000000;
+  text-decoration: none;
+}
+span .fa {
+  color: #E90606;
+  margin: 0 3px;
+  font-size: 10px;
+  animation: pound 0.35s infinite alternate;
+  -webkit-animation: pound 0.35s infinite alternate;
+}
+
+@-webkit-keyframes pound {
+  to {
+    transform: scale(1.1);
+  }
+}
+@keyframes pound {
+  to {
+    transform: scale(1.1);
+  }
+}
+
 @media (max-width: 767px) {
   .sidebar {
     position: static;
@@ -442,8 +483,3 @@ section.pink {
   transition: bottom 300ms cubic-bezier(0.23, 1, 0.32, 1), transform 350ms 350ms cubic-bezier(0.23, 1, 0.32, 1), -webkit-transform 350ms 350ms cubic-bezier(0.23, 1, 0.32, 1);
 }
 /*# sourceMappingURL=styles.css.map */
-
-.xd{
-  position : absolute
-  bottom   : 0
-}
