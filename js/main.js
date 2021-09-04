@@ -13,57 +13,52 @@
 *
 */
 
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+      e.preventDefault();
+
+      document.querySelector(this.getAttribute('href')).scrollIntoView({
+          behavior: 'smooth'
+      });
+  });
+});
+
 
 let menuBtn = $("#menuBar");
 
-menuBtn.click(function() {
+menuBtn.click(function(){
 
   $('.hamburger-menu').toggleClass('animate');
 
-  if ($(".secondaryMenu").hasClass("active")) {
-
+  if($(".secondaryMenu").hasClass("active")){
+    
     $(".secondaryMenu").removeClass("active");
-    setTimeout(function() {
+    setTimeout(function(){
       $(".primaryMenu").addClass("active");
-    }, 400);
+    },400);
 
-
+    
   } else {
     $(".primaryMenu").removeClass("active");
-
-    setTimeout(function() {
+  
+    setTimeout(function(){
       $(".secondaryMenu").addClass("active");
-    }, 350);
+    },350);
   }
 });
 
-function scrollTo(target) {
-  const top = $(target).offset().top;
-  const duration = 500;
-  const changeHash = function() {
-    location.hash = target
-  };
-  $("html, body").animate({ scrollTop: top }, duration, changeHash);
-}
+$(document).ready(function(){
+  
+  $(".sidebar .main-info img, .sidebar .main-info h1, .sidebar .main-info h1 span, .sidebar .main-info p,.sidebar .main-info .social,.sidebar .main-info a").each(function(i){
+    var $li = $(this);
+    setTimeout(function(){
+      $li.addClass("bs");
+      $li.children().addClass("bs");
+    }, (400 * i) - 190 * i );
+  })
 
-$(document).ready(function() {
-  var elements = $(".sidebar > .main-info *");
+  setTimeout(function(){
+    $(".main-content .emp").addClass("bs");
+  }, 2200);
 
-  console.log(elements);
-
-  for (let i = 0; i < elements.length; i++) {
-    setTimeout(function() {
-      $(elements[i].tagName).addClass("bs");
-    }, (400 * i) - 90 * i);
-  }
-
-  setTimeout(function() {
-    $(".main-content").addClass("active");
-  }, 1900);
-
-  $("#sidebar a.btn[href='#contact']").on("click", function (event) {
-    event.preventDefault();
-
-    scrollTo($.attr(this, "href"));
-  });
 });
