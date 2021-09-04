@@ -3,56 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2021-07-02T18:08:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/work/my-work/</loc>
+    <loc>/work/my-work/</loc>
     <lastmod>2021-07-02T18:08:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/work/my-work2/</loc>
+    <loc>/work/my-work2/</loc>
     <lastmod>2021-07-02T18:08:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/work/my-work3/</loc>
+    <loc>/work/my-work3/</loc>
     <lastmod>2021-07-02T18:08:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/work/my-work4/</loc>
+    <loc>/work/my-work4/</loc>
     <lastmod>2021-07-02T18:08:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/work/my-work5/</loc>
+    <loc>/work/my-work5/</loc>
     <lastmod>2021-07-02T18:08:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/work/my-work6/</loc>
+    <loc>/work/my-work6/</loc>
     <lastmod>2021-07-02T18:08:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/work/my-work7/</loc>
+    <loc>/work/my-work7/</loc>
     <lastmod>2021-07-02T18:08:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/work/</loc>
+    <loc>/work/</loc>
     <lastmod>2021-07-02T18:08:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
