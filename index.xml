@@ -27,14 +27,13 @@ Il processo di branding del servizio non si limita dunque alla sola riproduzione
     </item>
     
     <item>
-      <title>Pollution</title>
+      <title>dabe.design</title>
       <link>https://dabe.design/work/dabedesign/</link>
       <pubDate>Fri, 02 Jul 2021 18:08:43 +0100</pubDate>
       
       <guid>https://dabe.design/work/dabedesign/</guid>
-      <description>Pollution è una campagna di sensibilizzazione a tema ambientale. Ha lo scopo di sensibilizzare la popolazione sulle conseguenze e ripercussioni ha sulla catena alimentare. Per la campagna sono state realizzate una brand identity ed una serie di poster.
-Brand Identity Logo negativo/positivo Logo colorato Logo su sfondo colorato
-Manifesti Dopo aver realizzato la Brand Identity ho scattato una serie di foto al mercato di San Benedetto di Cagliari per far sentire il problema dell&amp;rsquo;inquinamento nella catena alimentare il più vicino possibile ai cittadini della città.</description>
+      <description>dabe.design è realizzato con hugo, un framework open source che permette la generazione di siti statici. Il tema creato per dabe.design utilizza Bootstrap 5 che lo rende un sito mobile-first e responsive.
+Hugo utilizza il linguaggio markdown per la creazione di articoli, l&amp;rsquo;assenza di un vero e proprio database lo rende un framework veloce e flessibile.</description>
     </item>
     
     <item>
