@@ -3,56 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-07-02T18:08:43+02:00</lastmod>
+    <loc>https://dabe.design/</loc>
+    <lastmod>2021-08-02T18:08:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/my-work/</loc>
-    <lastmod>2021-07-02T18:08:43+02:00</lastmod>
+    <loc>https://dabe.design/work/logubranding/</loc>
+    <lastmod>2021-08-02T18:08:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/my-work2/</loc>
-    <lastmod>2021-07-02T18:08:43+02:00</lastmod>
+    <loc>https://dabe.design/work/loguui/</loc>
+    <lastmod>2021-08-02T18:08:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/my-work3/</loc>
-    <lastmod>2021-07-02T18:08:43+02:00</lastmod>
+    <loc>https://dabe.design/work/</loc>
+    <lastmod>2021-08-02T18:08:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/my-work4/</loc>
-    <lastmod>2021-07-02T18:08:43+02:00</lastmod>
+    <loc>https://dabe.design/work/dabedesign/</loc>
+    <lastmod>2021-07-02T18:08:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/my-work5/</loc>
-    <lastmod>2021-07-02T18:08:43+02:00</lastmod>
+    <loc>https://dabe.design/work/pollution/</loc>
+    <lastmod>2021-07-02T18:08:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/my-work6/</loc>
-    <lastmod>2021-07-02T18:08:43+02:00</lastmod>
+    <loc>https://dabe.design/categories/</loc>
   </url>
   
   <url>
-    <loc>/work/my-work7/</loc>
-    <lastmod>2021-07-02T18:08:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/work/</loc>
-    <lastmod>2021-07-02T18:08:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>https://dabe.design/tags/</loc>
   </url>
   
 </urlset>

@@ -2,79 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dabe.design</title>
-    <link>/</link>
+    <link>https://dabe.design/</link>
     <description>Recent content on dabe.design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jul 2021 18:08:43 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Aug 2021 18:08:43 +0100</lastBuildDate><atom:link href="https://dabe.design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Work</title>
-      <link>/work/my-work/</link>
-      <pubDate>Fri, 02 Jul 2021 18:08:43 +0200</pubDate>
+      <title>Logu branding</title>
+      <link>https://dabe.design/work/logubranding/</link>
+      <pubDate>Mon, 02 Aug 2021 18:08:43 +0100</pubDate>
       
-      <guid>/work/my-work/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et nisl iaculis, efficitur nisi eu, congue ipsum. Cras auctor accumsan ex. Ut hendrerit faucibus est vel feugiat. Vivamus iaculis ligula at urna aliquet, nec feugiat urna sodales. Mauris aliquam tristique quam non auctor. Etiam in volutpat ante. In pretium cursus cursus.
-Nunc commodo arcu enim, vel aliquam lacus suscipit ut. Mauris quam ex, luctus vel mattis et, congue quis ex. Curabitur at enim lectus.</description>
+      <guid>https://dabe.design/work/logubranding/</guid>
+      <description>Lo stile visivo aziendale, se coerente e ben strutturato, è in grado di suscitare reazioni psicologiche nella clientela come la fiducia o il senso di rassicurazione.
+Il processo di branding del servizio non si limita dunque alla sola riproduzione grafica del logo, ma riguarda anche la comunicazione dei valori, della missione e della visione dell’azienda. È infatti il metodo che consente alla promessa di marca di essere costruita, comunicata e percepita.</description>
     </item>
     
     <item>
-      <title>My Work</title>
-      <link>/work/my-work2/</link>
-      <pubDate>Fri, 02 Jul 2021 18:08:43 +0200</pubDate>
+      <title>Logu UI/UX</title>
+      <link>https://dabe.design/work/loguui/</link>
+      <pubDate>Mon, 02 Aug 2021 18:08:43 +0100</pubDate>
       
-      <guid>/work/my-work2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et nisl iaculis, efficitur nisi eu, congue ipsum. Cras auctor accumsan ex. Ut hendrerit faucibus est vel feugiat. Vivamus iaculis ligula at urna aliquet, nec feugiat urna sodales. Mauris aliquam tristique quam non auctor. Etiam in volutpat ante. In pretium cursus cursus.
-Nunc commodo arcu enim, vel aliquam lacus suscipit ut. Mauris quam ex, luctus vel mattis et, congue quis ex. Curabitur at enim lectus.</description>
+      <guid>https://dabe.design/work/loguui/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>My Work</title>
-      <link>/work/my-work3/</link>
-      <pubDate>Fri, 02 Jul 2021 18:08:43 +0200</pubDate>
+      <title>Pollution</title>
+      <link>https://dabe.design/work/dabedesign/</link>
+      <pubDate>Fri, 02 Jul 2021 18:08:43 +0100</pubDate>
       
-      <guid>/work/my-work3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et nisl iaculis, efficitur nisi eu, congue ipsum. Cras auctor accumsan ex. Ut hendrerit faucibus est vel feugiat. Vivamus iaculis ligula at urna aliquet, nec feugiat urna sodales. Mauris aliquam tristique quam non auctor. Etiam in volutpat ante. In pretium cursus cursus.
-Nunc commodo arcu enim, vel aliquam lacus suscipit ut. Mauris quam ex, luctus vel mattis et, congue quis ex. Curabitur at enim lectus.</description>
+      <guid>https://dabe.design/work/dabedesign/</guid>
+      <description>Pollution è una campagna di sensibilizzazione a tema ambientale. Ha lo scopo di sensibilizzare la popolazione sulle conseguenze e ripercussioni ha sulla catena alimentare. Per la campagna sono state realizzate una brand identity ed una serie di poster.
+Brand Identity Logo negativo/positivo Logo colorato Logo su sfondo colorato
+Manifesti Dopo aver realizzato la Brand Identity ho scattato una serie di foto al mercato di San Benedetto di Cagliari per far sentire il problema dell&amp;rsquo;inquinamento nella catena alimentare il più vicino possibile ai cittadini della città.</description>
     </item>
     
     <item>
-      <title>My Work</title>
-      <link>/work/my-work4/</link>
-      <pubDate>Fri, 02 Jul 2021 18:08:43 +0200</pubDate>
+      <title>Pollution</title>
+      <link>https://dabe.design/work/pollution/</link>
+      <pubDate>Fri, 02 Jul 2021 18:08:43 +0100</pubDate>
       
-      <guid>/work/my-work4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et nisl iaculis, efficitur nisi eu, congue ipsum. Cras auctor accumsan ex. Ut hendrerit faucibus est vel feugiat. Vivamus iaculis ligula at urna aliquet, nec feugiat urna sodales. Mauris aliquam tristique quam non auctor. Etiam in volutpat ante. In pretium cursus cursus.
-Nunc commodo arcu enim, vel aliquam lacus suscipit ut. Mauris quam ex, luctus vel mattis et, congue quis ex. Curabitur at enim lectus.</description>
-    </item>
-    
-    <item>
-      <title>My Work</title>
-      <link>/work/my-work5/</link>
-      <pubDate>Fri, 02 Jul 2021 18:08:43 +0200</pubDate>
-      
-      <guid>/work/my-work5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et nisl iaculis, efficitur nisi eu, congue ipsum. Cras auctor accumsan ex. Ut hendrerit faucibus est vel feugiat. Vivamus iaculis ligula at urna aliquet, nec feugiat urna sodales. Mauris aliquam tristique quam non auctor. Etiam in volutpat ante. In pretium cursus cursus.
-Nunc commodo arcu enim, vel aliquam lacus suscipit ut. Mauris quam ex, luctus vel mattis et, congue quis ex. Curabitur at enim lectus.</description>
-    </item>
-    
-    <item>
-      <title>My Work</title>
-      <link>/work/my-work6/</link>
-      <pubDate>Fri, 02 Jul 2021 18:08:43 +0200</pubDate>
-      
-      <guid>/work/my-work6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et nisl iaculis, efficitur nisi eu, congue ipsum. Cras auctor accumsan ex. Ut hendrerit faucibus est vel feugiat. Vivamus iaculis ligula at urna aliquet, nec feugiat urna sodales. Mauris aliquam tristique quam non auctor. Etiam in volutpat ante. In pretium cursus cursus.
-Nunc commodo arcu enim, vel aliquam lacus suscipit ut. Mauris quam ex, luctus vel mattis et, congue quis ex. Curabitur at enim lectus.</description>
-    </item>
-    
-    <item>
-      <title>My Work</title>
-      <link>/work/my-work7/</link>
-      <pubDate>Fri, 02 Jul 2021 18:08:43 +0200</pubDate>
-      
-      <guid>/work/my-work7/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et nisl iaculis, efficitur nisi eu, congue ipsum. Cras auctor accumsan ex. Ut hendrerit faucibus est vel feugiat. Vivamus iaculis ligula at urna aliquet, nec feugiat urna sodales. Mauris aliquam tristique quam non auctor. Etiam in volutpat ante. In pretium cursus cursus.
-Nunc commodo arcu enim, vel aliquam lacus suscipit ut. Mauris quam ex, luctus vel mattis et, congue quis ex. Curabitur at enim lectus.</description>
+      <guid>https://dabe.design/work/pollution/</guid>
+      <description>Pollution è una campagna di sensibilizzazione a tema ambientale. Ha lo scopo di sensibilizzare la popolazione sulle conseguenze e ripercussioni ha sulla catena alimentare. Per la campagna sono state realizzate una brand identity ed una serie di poster.
+Brand Identity Logo negativo/positivo Logo colorato Logo su sfondo colorato
+Manifesti Dopo aver realizzato la Brand Identity ho scattato una serie di foto al mercato di San Benedetto di Cagliari per far sentire il problema dell&amp;rsquo;inquinamento nella catena alimentare il più vicino possibile ai cittadini della città.</description>
     </item>
     
   </channel>
