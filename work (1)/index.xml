@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on dabe.design</title>
+    <link>https://dabe.design/work/</link>
+    <description>Recent content in Works on dabe.design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Sep 2021 18:08:43 +0100</lastBuildDate><atom:link href="https://dabe.design/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B/W D. System</title>
+      <link>https://dabe.design/work/designsystem/</link>
+      <pubDate>Thu, 02 Sep 2021 18:08:43 +0100</pubDate>
+      
+      <guid>https://dabe.design/work/designsystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logu UI/UX</title>
+      <link>https://dabe.design/work/loguui/</link>
+      <pubDate>Thu, 02 Sep 2021 18:08:43 +0100</pubDate>
+      
+      <guid>https://dabe.design/work/loguui/</guid>
+      <description>Booking a route Experience day </description>
+    </item>
+    
+    <item>
+      <title>Admin dash</title>
+      <link>https://dabe.design/work/adminfooddash/</link>
+      <pubDate>Fri, 02 Jul 2021 18:08:43 +0100</pubDate>
+      
+      <guid>https://dabe.design/work/adminfooddash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dabe.design</title>
+      <link>https://dabe.design/work/dabedesign/</link>
+      <pubDate>Fri, 02 Jul 2021 18:08:43 +0100</pubDate>
+      
+      <guid>https://dabe.design/work/dabedesign/</guid>
+      <description>dabe.design is built with hugo, an open source framework that allows the generation of static sites. The theme created for dabe.design uses Bootstrap 5 which makes it a mobile-first and responsive site.
+Hugo uses the markdown language to create articles, the absence of a real database makes it a fast and flexible framework.</description>
+    </item>
+    
+    <item>
+      <title>Logu branding</title>
+      <link>https://dabe.design/work/logubranding/</link>
+      <pubDate>Tue, 02 Feb 2021 18:08:43 +0100</pubDate>
+      
+      <guid>https://dabe.design/work/logubranding/</guid>
+      <description>Lo stile visivo aziendale, se coerente e ben strutturato, è in grado di suscitare reazioni psicologiche nella clientela come la fiducia o il senso di rassicurazione.
+Il processo di branding del servizio non si limita dunque alla sola riproduzione grafica del logo, ma riguarda anche la comunicazione dei valori, della missione e della visione dell’azienda. È infatti il metodo che consente alla promessa di marca di essere costruita, comunicata e percepita.</description>
+    </item>
+    
+    <item>
+      <title>Pollution</title>
+      <link>https://dabe.design/work/pollution/</link>
+      <pubDate>Sat, 02 Jan 2021 18:08:43 +0100</pubDate>
+      
+      <guid>https://dabe.design/work/pollution/</guid>
+      <description>Pollution is an environmental awareness campaign. It aims to raise awareness of the consequences and impacts on the food chain. A brand identity and a series of posters were created for the campaign.
+Brand Identity Logo negativo/positivo Logo colorato Logo su sfondo colorato
+Manifesti After creating the Brand Identity I took a series of photos at the San Benedetto market in Cagliari to make the problem of pollution in the food chain as close as possible to the citizens of the city.</description>
+    </item>
+    
+  </channel>
+</rss>
