@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dabe.design/</loc>
+    <lastmod>2021-10-02T18:08:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dabe.design/work/weschool/</loc>
+    <lastmod>2021-10-02T18:08:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dabe.design/work/</loc>
+    <lastmod>2021-10-02T18:08:43+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dabe.design/work/designsystem/</loc>
     <lastmod>2021-09-02T18:08:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dabe.design/</loc>
-    <lastmod>2021-09-02T18:08:43+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dabe.design/work/loguui/</loc>
-    <lastmod>2021-09-02T18:08:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dabe.design/work/</loc>
     <lastmod>2021-09-02T18:08:43+01:00</lastmod>
   </url>
   

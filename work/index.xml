@@ -6,7 +6,17 @@
     <description>Recent content in Works on dabe.design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Sep 2021 18:08:43 +0100</lastBuildDate><atom:link href="https://dabe.design/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Oct 2021 18:08:43 +0100</lastBuildDate><atom:link href="https://dabe.design/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weschool UX</title>
+      <link>https://dabe.design/work/weschool/</link>
+      <pubDate>Sat, 02 Oct 2021 18:08:43 +0100</pubDate>
+      
+      <guid>https://dabe.design/work/weschool/</guid>
+      <description>WeSchool è una piattaforma utilizzata principalmente da due tipi di utenti, studenti e insegnati, il goal della piattaforma è però unico, da un lato facilitare e potenziare l&amp;rsquo;insegnamento di docenti e l&amp;rsquo;apprendimento degli studenti attraverso l&amp;rsquo;utilizzo di strumenti digitali forniti dalla piattaforma. In questa analisi andremo ad analizzare il lato dedicato ai docenti e a tutti gli strumenti a loro disposizione.
+Log-in Subito dopo esserci registrati e aver effettuato il login, veniamo reindirizzati alla pagina dei gruppi.</description>
+    </item>
+    
     <item>
       <title>B/W D. System</title>
       <link>https://dabe.design/work/designsystem/</link>
